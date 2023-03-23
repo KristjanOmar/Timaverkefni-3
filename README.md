@@ -33,7 +33,7 @@ void loop() {
 
 ### Myndband
 
-
+https://user-images.githubusercontent.com/117899282/227207189-4712e38a-76bb-40f5-9ca3-5193f4cfdc51.mp4
 
 ### Kóði
 
@@ -78,7 +78,7 @@ void loop() {
 
 ### Myndband
 
-
+https://user-images.githubusercontent.com/117899282/227207293-96a52855-a757-4483-b589-9dfc35abe89e.mp4
 
 ### Kóði
 
