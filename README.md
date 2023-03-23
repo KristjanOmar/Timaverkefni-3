@@ -21,11 +21,11 @@ void setup() {
 
 void loop() {
   int sensorValue = analogRead(A0);
-  int birta = map(sensorValue, 0, 1023, 255, 0);
+  int styrkur = map(sensorValue, 0, 1023, 255, 0);
 
-  analogWrite(raudur, birta);
-  analogWrite(graenn, birta);
-  analogWrite(blar, birta);
+  analogWrite(raudur, styrkur);
+  analogWrite(graenn, styrkur);
+  analogWrite(blar, styrkur);
 }
 ```
 
