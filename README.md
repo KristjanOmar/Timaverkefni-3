@@ -4,7 +4,7 @@
 
 ### Myndband
 
-![Fade in fade out](https://user-images.githubusercontent.com/117899282/227205381-618dc073-901a-4411-843a-7ce3e4be99f5.mp4)
+!(https://user-images.githubusercontent.com/117899282/227205381-618dc073-901a-4411-843a-7ce3e4be99f5.mp4)
 
 https://user-images.githubusercontent.com/117899282/227205381-618dc073-901a-4411-843a-7ce3e4be99f5.mp4
 
